@@ -4,7 +4,7 @@ Toward Continual-Learning-as-a-Service with fully auto-adaptive learning (AutoCL
 
 The goal is to make large-scale learning automatic, adaptive and more robust, efficient and easy to use. 
 
-Here, is a list of materials useful to realize this project.
+Here, is a list of materials useful to realize this challenging and exciting project.
 
 ## Machine Learning System (MLSyS) and MLOps
 
@@ -16,7 +16,7 @@ In this section, we collect a list of all papers, site docs and systems produced
 
 ## Continual Learning
 
-In this section, we report links to papers and tools taken from ContinualAI.
+In this section, we report links to papers and tools mainly taken from ContinualAI.
 
 
 ## Continual-Learning-as-a-Service and AutoCL methods and systems
